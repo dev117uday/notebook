@@ -85,7 +85,7 @@ git merge remote-name/branch-name
 
 ## Diff & Patch
 
-<figure><img src="../../.gitbook/assets/jdbc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/jdbc.png" alt=""><figcaption></figcaption></figure>
 
 ### Patch
 
@@ -131,7 +131,7 @@ Rebase is a way in which you put all commits of a branch and add in on top of an
 * Command, execute this from branch to which is added on top, specify the brach on which in the command
   * `git rebase [branch name to rebase onto]`
 
-<figure><img src="../../.gitbook/assets/git rebase.png" alt=""><figcaption><p>git rebase diagram</p></figcaption></figure>
+<figure><img src="../../gitbook/assets/git rebase.png" alt=""><figcaption><p>git rebase diagram</p></figcaption></figure>
 
 ## Stash
 
@@ -146,7 +146,7 @@ Rebase is a way in which you put all commits of a branch and add in on top of an
 
 ## Cherry Pick
 
-<figure><img src="../../.gitbook/assets/git cherry pick.jpg" alt=""><figcaption><p>git cherry pick</p></figcaption></figure>
+<figure><img src="../../gitbook/assets/git cherry pick.jpg" alt=""><figcaption><p>git cherry pick</p></figcaption></figure>
 
 To pick one commit from another branch and then place it on top of another branch
 

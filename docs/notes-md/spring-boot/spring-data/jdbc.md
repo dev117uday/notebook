@@ -4,7 +4,7 @@ description: spring data jpa is better !
 
 # JDBC
 
-<figure><img src="../../.gitbook/assets/jdbc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/jdbc.png" alt=""><figcaption></figcaption></figure>
 
 ### pom.xml
 

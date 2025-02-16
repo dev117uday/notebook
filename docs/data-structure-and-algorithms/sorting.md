@@ -6,7 +6,7 @@ description: .sort()
 
 ### Selection Sort
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>selection sort </p></figcaption></figure>
+<figure><img src="gitbook/assets/image (2).png" alt=""><figcaption><p>selection sort </p></figcaption></figure>
 
 ```java
 class Solution {
@@ -96,7 +96,7 @@ int main() {
 
 ### Insertion Sort
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ```java
 class Solution {
@@ -271,7 +271,7 @@ class Solution {
 
 ### Bubble Sort
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ```java
 class Solution {

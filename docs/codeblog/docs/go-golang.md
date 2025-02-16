@@ -1,7 +1,7 @@
 
 # Go Golang Go!
 
-If you want to know more about Golang, pelase to go the **Golang section on my notes page** [**here**](https://dev117uday.gitbook.io/notes-md/)
+If you want to know more about Golang, pelase to go the **Golang section on my notes page** [**here**](https://dev117udaygitbook.io/notes-md/)
 
 <img src="../assets/golang.jpeg" class="center"> 
 

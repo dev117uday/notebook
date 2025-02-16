@@ -29,13 +29,21 @@ Debugging : the process of identifying, analyzing and removing bugs in a system
 
 ### Main steps to solving any issue ?
 
-<figure><img src="../../.gitbook/assets/Untitled.png" alt=""><figcaption><p>Questions to ask</p></figcaption></figure>
+**Questions to Ask before debugging**
+
+![Question to ask before debugging](../../notes-md/)
 
 ### Isolating the root cause is super important
 
 * Load average : amount of time the process is busy in a minute
 * load average 1 means it was busy for whole min.
 * shouldn’t be above the amount of process in computer
+
+```bash
+13:36:43 up 6 min,  1 user,  load average: 0.26, 0.12, 0.04 
+```
+
+- The 3 values indicate `1 min` , `5 min`, `15 min` : must be less than CPU cores.
 
 #### Reproduction Case
 
