@@ -1,8 +1,8 @@
 # Docker
 
-<figure><img src="<../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="<../gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Untitled (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/Untitled (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Image naming structure : `remote_location/username/image_name` | ex : `docker.io/nginx/nginx`
 
@@ -72,7 +72,7 @@ docker run \
 
 
 
-<figure><img src="../.gitbook/assets/Untitled (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/Untitled (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Steps to create your own images
 
@@ -111,7 +111,7 @@ ENTYRPOINT [instruction to start the process]
 
 ## Networking in Docker
 
-<figure><img src="../.gitbook/assets/Untitled (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/Untitled (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 There are 3 network in docker
 
@@ -133,10 +133,10 @@ docker network create \\
 docker network ls
 ```
 
-<figure><img src="../.gitbook/assets/Untitled (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/Untitled (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Embedded DNS
 
 Docker host contains a internal DNS resolver for different containers to communicate to each other. In place of URL, just add the name of the container you want to communicate to.
 
-<figure><img src="../.gitbook/assets/Untitled (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/Untitled (5) (2).png" alt=""><figcaption></figcaption></figure>

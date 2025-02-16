@@ -51,13 +51,13 @@ layout:
 
 #### Adjacency Matrix
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>adjacency matrix : undirected graph</p></figcaption></figure>
+<figure><img src="gitbook/assets/image (6).png" alt=""><figcaption><p>adjacency matrix : undirected graph</p></figcaption></figure>
 
 * If the diagonal of matrix is 0 and **upper and lower triangle are symmetric**, **then it is a undirected graph**
 * size of matrix = |v|x|v|
 * **If graph is not symmetric , then it is a directed graph**
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>adjacency matrix : directed graph</p></figcaption></figure>
+<figure><img src="gitbook/assets/image (8).png" alt=""><figcaption><p>adjacency matrix : directed graph</p></figcaption></figure>
 
 * space required : |v|x|v|
 * check if u & v are adj : O(1)
@@ -66,9 +66,9 @@ layout:
 
 #### Adjacency Matrix List
 
-<figure><img src=".gitbook/assets/image (9).png" alt="" width="563"><figcaption><p>adjacency list undirected graph</p></figcaption></figure>
+<figure><img src="gitbook/assets/image (9).png" alt="" width="563"><figcaption><p>adjacency list undirected graph</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>adjacency list directed graph</p></figcaption></figure>
+<figure><img src="gitbook/assets/image (11).png" alt=""><figcaption><p>adjacency list directed graph</p></figcaption></figure>
 
 * space required : O(V+E)
   * undirected : V+2E

@@ -23,7 +23,7 @@ description: getting started
 
 ![evolution of cloud](./gcp-core-infra-img/gcp-core-infra-2.png)
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>solution offerings</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (2).png" alt=""><figcaption><p>solution offerings</p></figcaption></figure>
 
 ### Infrastructure as service
 
@@ -46,7 +46,7 @@ Specifically, when you run an instance for more than 25% of a month, Compute Eng
 
 ### Project structure GCP
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>resource structure</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (1).png" alt=""><figcaption><p>resource structure</p></figcaption></figure>
 
 ![project structure gcp](./gcp-core-infra-img/gcp-core-infra-6.png)
 
@@ -227,9 +227,9 @@ You can
 
 ![what is compute engine](./gcp-core-infra-img/gcp-core-infra-23.png)
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption><p>range of compute services</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (24).png" alt=""><figcaption><p>range of compute services</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (9) (3).png" alt=""><figcaption><p>virtual machine VM lifecycle</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (9) (3).png" alt=""><figcaption><p>virtual machine VM lifecycle</p></figcaption></figure>
 
 ### What are virtual machine
 
@@ -251,15 +251,15 @@ Let's say, you have a workload that doesn't require a human to sit and wait for 
 
 ![vm upper limit](./gcp-core-infra-img/gcp-core-infra-27.png)
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>general purpose virtual machone</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (9).png" alt=""><figcaption><p>general purpose virtual machone</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>compute optimized virtual machone</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (17).png" alt=""><figcaption><p>compute optimized virtual machone</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>memory optimized virtual machone</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (22).png" alt=""><figcaption><p>memory optimized virtual machone</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>preemptible virtual machine</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (14).png" alt=""><figcaption><p>preemptible virtual machine</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>spot virtual machine</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (15).png" alt=""><figcaption><p>spot virtual machine</p></figcaption></figure>
 
 ### App Engine
 
@@ -431,9 +431,9 @@ Let's say, you have a workload that doesn't require a human to sit and wait for 
 
 ![type database to choose](./gcp-core-infra-img/gcp-core-infra-54.png)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>database offerings</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image.png" alt=""><figcaption><p>database offerings</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>how to choose the right database</p></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (4).png" alt=""><figcaption><p>how to choose the right database</p></figcaption></figure>
 
 ### Google Cloud Storage
 

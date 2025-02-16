@@ -12,7 +12,7 @@ final int someConstant = 10;
 
 ## Data Types
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * These are Java's primitive datatypes
 * you can use `+` operator on datatypes smaller than int otherwise anything that gets promoted to `Integer`.
@@ -112,7 +112,7 @@ import java.util.StringTokenizer;
 
 **Difference between string on heap and Pool**
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### String intern()
 

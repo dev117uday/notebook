@@ -4,7 +4,7 @@ description: Just like shopping list
 
 # List in Java
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 [read more here](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)
 
