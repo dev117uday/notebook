@@ -1,0 +1,23 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  
+}
+
+.xbutton {
+    height: 40px;
+    width: 140px;
+    color: greenyellow;
+    background-color: #34568b;
+    font-size: 22px;
+    border-radius: 12px;
+}
+
+.xbutton:hover {
+    color: #ff6f61;
+    background-color: #f7cac9;
+}
+
+.xbutton:focus {outline:0;}
